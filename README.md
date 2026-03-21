@@ -5,7 +5,7 @@ Eae, tudo bem?  👋
 </p>
 
 <p align="center">
-  <img src="https://www.clipartmax.com/png/full/299-2990812_pikachu-gif-pictures-images-photos-pixel-pikachu.png" width="160" alt="Pixel Pikachu" />
+  <img src="https://leechmeat.carrd.co/assets/images/image01.gif?v=b1a987e8" width="180" alt="Animated Pixel Jolteon Sprite" />
 </p>
 
 <h3 align="center">GitHub Stats</h3>
