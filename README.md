@@ -1,7 +1,7 @@
 Eae, tudo bem?  👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Junior+Full+Stack+Developer;Technology+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Analysis+and+Development+Student;Technology+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Eae, tudo bem?  👋
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp,cs" alt="Languages Skills" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Languages Skills" />
 </p>
 
 
