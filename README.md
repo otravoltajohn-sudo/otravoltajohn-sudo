@@ -19,14 +19,14 @@ Eae, tudo bem?  👋
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,c#" alt="Languages Skills" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,.net,C#" alt="Languages Skills" />
 </p>
 
 
 <h3 align="center">Backend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,c#" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,.net,C#" alt="Backend Skills" />
 </p>
 
 <br>
