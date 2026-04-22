@@ -19,7 +19,7 @@ Eae, tudo bem?  👋
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Languages Skills" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,.net" alt="Languages Skills" />
 </p>
 
 
